@@ -14,10 +14,12 @@ danielpinto8zz6
 
 ```
 ## Release History
-* 1.0
-* CHANGE: Final Release
-
-
+* 1.0 HexaDecimalReader.cpp
+* CHANGE: On time Release 
+* 2.0 219-1Late.cpp
+* Change: Fixed majority of the bugs cant find why count is to high
+* 3.0 219-1-Final -Late.cpp
+* Change Posted after due date code works and compiles as intended Final Release
 Thomas Turngren - lvthomas01@gmail.com
 
 [TurngrenThomas](Cs219-1)
