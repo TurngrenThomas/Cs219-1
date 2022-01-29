@@ -75,7 +75,7 @@ int main() {
     char file_chars[100];
     int i=0, count = 0, control_code = READ;
 
-    f=fopen("ADDME.txt","r");
+    f=fopen("Programming-Project-1.txt","r");
     if (f==NULL){
         printf("file doesnt exist?!\n");
         return 1;
